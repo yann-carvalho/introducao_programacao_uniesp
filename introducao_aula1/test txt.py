@@ -1,4 +1,4 @@
-with open('teste texto', 'w') as arquivo:
+with open('test_text', 'w') as arquivo:
     print('Hello, World!\n'
           'Hello\n'
           'Teste', file = arquivo)
