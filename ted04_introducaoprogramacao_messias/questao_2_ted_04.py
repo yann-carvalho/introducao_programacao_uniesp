@@ -6,6 +6,6 @@ apple2 = float(1.00)
 compra = float(input("Insira o número de maçãs compradas: "))
 
 if compra >= 12:
-    print(f"O valor total da sua compra é R$ {apple2 * compra}")
+    print(f"O valor total da sua compra é R$ {apple2 * compra}. Você economizou e pagou apenas R$ 1,00 por unidade de maçã!")
 else:
-    print(f"O valor total da sua compra é R$ {apple1 * compra}.")
+    print(f"O valor total da sua compra é R$ {apple1 * compra}. Você pagou R$ 1,30 por unidade de maçã.")
