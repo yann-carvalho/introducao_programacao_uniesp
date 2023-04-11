@@ -1,0 +1,1 @@
+# Intermediário: Escreva um programa que leia uma string e verifique se ela é um palíndromo. Um palíndromo é uma palavra que pode ser lida tanto da esquerda para a direita quanto da direita para a esquerda e possui o mesmo significado.
